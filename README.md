@@ -1,52 +1,25 @@
-# Meu Projeto Agrinho
+# Projeto Agrinho
 
-Projeto desenvolvido para o concurso Agrinho.
+Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
----
+## Sobre o projeto
 
-## Objetivo do Projeto
+O objetivo do blog é mostrar conteúdos sobre:
+- agricultura,
+- sustentabilidade,
+- natureza,
+- campo e cidade.
 
-Este projeto tem como objetivo apresentar a importância da tecnologia, sustentabilidade e acessibilidade no campo e na cidade, utilizando uma interface moderna, responsiva e interativa.
+## Funcionalidades
 
----
+- Tema escuro
+- Layout responsivo
+- Cards organizados com Flexbox
+- Efeitos visuais
+- Transições suaves
 
-## Tecnologias Utilizadas
+## Tecnologias usadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-
----
-
-## Recursos do Site
-
-- Design responsivo
-- Menu interativo
-- Animações
-- Acessibilidade
-- Modo escuro
-- Controle de fonte
-
----
-
-## Estrutura de Arquivos
-
-| Arquivo | Função |
-|----------|---------|
-| index.html | Estrutura principal do site |
-| style.css | Estilização do projeto |
-| script.js | Funcionalidades e interações |
-| README.md | Documentação do projeto |
-
----
-
-## Como Executar o Projeto
-
-1. Baixe os arquivos do projeto
-2. Abra o arquivo `index.html` no navegador
-
----
-
-## Autor
-
-Projeto desenvolvido para o concurso Agrinho.
