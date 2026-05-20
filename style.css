@@ -1,0 +1,75 @@
+:root {
+    --cor-principal: white;
+    --cor-texto: black;
+    --cor-secundaria: green;
+}
+
+* {
+    transition: background-color 0.3s ease;
+}
+
+body {
+    background-color: var(--cor-principal);
+    color: var(--cor-texto);
+
+    max-width: 100vw;
+
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article {
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+
+    text-align: center;
+
+    margin: 16px;
+
+    gap: 16px;
+
+    padding: 16px;
+
+    flex: 1 1 25%;
+
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+
+    border-radius: 10px;
+}
+
+img {
+    width: 150px;
+}
+
+button {
+    padding: 10px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+.tema-escuro {
+    --cor-principal: #1e1e1e;
+    --cor-texto: white;
+}
+
+.tema-escuro .btn-tema-escuro {
+    background-color: var(--cor-secundaria);
+}
